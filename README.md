@@ -14,3 +14,12 @@ A light-weight library for implementing and trying out different diffusion based
 ### Requirements
 - Python >= 3.10
 - PyTorch >= 2.3
+
+### Implemented
+- [x] VAE
+- [x] UNet
+- [x] ResNet
+- [x] PixelCNN
+- [x] PixelSNAIL
+- [x] Encoder based Transformer
+- [x] DDPM      

@@ -23,6 +23,9 @@ A light-weight library for implementing and trying out different diffusion based
 - [x] PixelSNAIL
 - [x] Encoder based Transformer
 - [x] DDPM
+- [ ] DDIM
+- [ ] TimeMixer
+- [ ] TimesNet
 
 ### Research Papers
 - Diederik P. Kingma , Max Welling (2022). [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114).

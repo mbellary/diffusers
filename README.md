@@ -28,7 +28,7 @@ A light-weight library for implementing and trying out different diffusion based
 - [ ] TimesNet
 
 ### Research Papers
-- Diederik P. Kingma, Max Welling (2022). [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114).
+- Diederik P. Kingma,  Max Welling (2022). [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114).
 - Olaf Ronneberger, Philipp Fischer, and Thomas Brox (2015) [U-Net: Convolutional Networks for Biomedical
 Image Segmentation](https://arxiv.org/abs/1505.04597).
 - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun (2015).[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385).
